@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
-	<title>Gerson&#x27;s website</title>
+	<title>Gerson&#x27;s website - projects</title>
 	<subtitle>Proyectos, opinión, tecnología y más</subtitle>
-	<link href="https://gersonbdev.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://gersonbdev.github.io/categories/projects/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://gersonbdev.github.io/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-08-18T00:14:00-05:00</updated>
-	<id>https://gersonbdev.github.io/atom.xml</id>
+	<id>https://gersonbdev.github.io/categories/projects/atom.xml</id>
 	<entry xml:lang="es">
 		<title>Ataraxia Zola</title>
 		<published>2022-08-18T00:14:00-05:00</published>
@@ -68,14 +68,5 @@
 &lt;h2 id=&quot;license&quot;&gt;License&lt;&#x2F;h2&gt;
 &lt;p&gt;This work is published under the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.mozilla.org&#x2F;en-US&#x2F;MPL&#x2F;2.0&#x2F;&quot;&gt;MPL-2.0&lt;&#x2F;a&gt; license&lt;&#x2F;p&gt;
 </content>
-	</entry>
-	<entry xml:lang="es">
-		<title>Hola mundo</title>
-		<published>2022-08-15T22:24:00-05:00</published>
-		<updated>2022-08-15T22:24:00-05:00</updated>
-		<link rel="alternate" href="https://gersonbdev.github.io/blog/2022/hola-mundo/" type="text/html"/>
-		<id>https://gersonbdev.github.io/blog/2022/hola-mundo/</id>
-		<content type="html">&lt;p&gt;&lt;code&gt;Hola, mundo!&lt;&#x2F;code&gt; esta es la primera publicación del nuevo sitio web reconstruido sobre el generador de sitios estáticos &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt;. Este nuevo sitio remplaza el tema &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cotes2020&#x2F;jekyll-theme-chirpy&quot;&gt;Chirpy&lt;&#x2F;a&gt; que usaba &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;jekyllrb.com&#x2F;&quot;&gt;Jekyll&lt;&#x2F;a&gt; para funcionar por un nuevo tema construido desde cero para Zola llamado &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;ataraxia-zola&quot;&gt;Ataraxia&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;</content>
 	</entry>
 </feed>
