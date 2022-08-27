@@ -5,12 +5,12 @@
 	<link href="https://gersonbdev.github.io/tags/zola/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://gersonbdev.github.io/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-08-18T00:14:00-05:00</updated>
+	<updated>2022-08-14T00:00:00-05:00</updated>
 	<id>https://gersonbdev.github.io/tags/zola/atom.xml</id>
 	<entry xml:lang="es">
 		<title>Ataraxia Zola</title>
-		<published>2022-08-18T00:14:00-05:00</published>
-		<updated>2022-08-18T00:14:00-05:00</updated>
+		<published>2022-08-14T00:00:00-05:00</published>
+		<updated>2022-08-14T00:00:00-05:00</updated>
 		<link rel="alternate" href="https://gersonbdev.github.io/projects/ataraxia-zola/" type="text/html"/>
 		<id>https://gersonbdev.github.io/projects/ataraxia-zola/</id>
 		<content type="html">&lt;p&gt;A personal theme for Zola focused on readability that aims to be simple, beautiful, and modern. It is designed to support multiple languages and be highly customizable.&lt;&#x2F;p&gt;
@@ -18,9 +18,9 @@
 &lt;p&gt;The theme takes visual inspiration from the Chirpy and Neumorphism themes.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;installation&quot;&gt;Installation&lt;&#x2F;h2&gt;
 &lt;p&gt;Open a command terminal at your site path and run:&lt;&#x2F;p&gt;
-&lt;pre data-lang=&quot;console&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-console &quot;&gt;&lt;code class=&quot;language-console&quot; data-lang=&quot;console&quot;&gt;&lt;span&gt;cd themes
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ cd themes
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;pre data-lang=&quot;console&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-console &quot;&gt;&lt;code class=&quot;language-console&quot; data-lang=&quot;console&quot;&gt;&lt;span&gt;git clone https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;ataraxia-zola.git
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ git clone https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;ataraxia-zola.git
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;&#x2F;h2&gt;
 &lt;p&gt;Copy the &lt;code&gt;config_sample.toml&lt;&#x2F;code&gt; file to your site&#x27;s main path, then rename it to &lt;code&gt;config.toml&lt;&#x2F;code&gt; and edit it with your site data.&lt;&#x2F;p&gt;
@@ -48,14 +48,14 @@
 &lt;&#x2F;span&gt;&lt;span style=&quot;background-color:#932b1e;color:#fdf4c1;&quot;&gt;+++&lt;&#x2F;span&gt;&lt;span&gt;
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;p&gt;You can display the result of your website by running:&lt;&#x2F;p&gt;
-&lt;pre data-lang=&quot;console&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-console &quot;&gt;&lt;code class=&quot;language-console&quot; data-lang=&quot;console&quot;&gt;&lt;span&gt;zola serve
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ zola serve
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;h2 id=&quot;hacking&quot;&gt;Hacking&lt;&#x2F;h2&gt;
 &lt;p&gt;By default, the theme comes with all the scss styles already compiled, in such a way that the installation of Bootstrap is not necessary, in order to avoid dependencies such as Node.js in the production file.&lt;&#x2F;p&gt;
 &lt;p&gt;If you want to edit the theme&#x27;s styles, you&#x27;ll need to have a &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nodejs.org&#x2F;&quot;&gt;Node.js&lt;&#x2F;a&gt; interpreter and a &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;sass-lang.com&#x2F;install&quot;&gt;Sass compiler&lt;&#x2F;a&gt; installed. After that, go to the main path of the theme and execute:&lt;&#x2F;p&gt;
-&lt;pre data-lang=&quot;console&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-console &quot;&gt;&lt;code class=&quot;language-console&quot; data-lang=&quot;console&quot;&gt;&lt;span&gt;npm install
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ npm install
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;pre data-lang=&quot;console&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-console &quot;&gt;&lt;code class=&quot;language-console&quot; data-lang=&quot;console&quot;&gt;&lt;span&gt;sass --watch scss&#x2F;custom.scss:static&#x2F;assets&#x2F;css&#x2F;custom.css
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ sass --watch scss&#x2F;custom.scss:static&#x2F;assets&#x2F;css&#x2F;custom.css
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Keep in mind that the main branch of this repository only has the stable versions of the theme, if you want to see the development status and the unstable versions, change to the corresponding branch.&lt;&#x2F;p&gt;
@@ -63,8 +63,7 @@
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;&#x2F;h2&gt;
 &lt;p&gt;This theme is mainly built on &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt; and &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;getbootstrap.com&#x2F;&quot;&gt;Bootstrap&lt;&#x2F;a&gt;, plus it makes use of &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;fonts.google.com&#x2F;&quot;&gt;Google fonts&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;sponsoring&quot;&gt;Sponsoring&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;liberapay.com&#x2F;gersonbenavides&#x2F;donate&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Finance%20my%20work-F6C915?style=flat&amp;amp;logo=liberapay&amp;amp;logoColor=ffffff&quot; alt=&quot;Liberapay&quot; title=&quot;Finance my work&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;paypal.me&#x2F;gersonbdev?country.x=CO&amp;amp;locale.x=es_XC&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Make%20a%20donation-00457C?style=flat&amp;amp;logo=paypal&quot; alt=&quot;PayPal&quot; title=&quot;Make a donation&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;liberapay.com&#x2F;gersonbenavides&#x2F;donate&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Finance%20my%20work-F6C915?style=flat&amp;amp;logo=liberapay&amp;amp;logoColor=ffffff&quot; alt=&quot;Liberapay&quot; title=&quot;Finance my work&quot; &#x2F;&gt;&lt;&#x2F;a&gt;  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;paypal.me&#x2F;gersonbdev?country.x=CO&amp;amp;locale.x=es_XC&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Make%20a%20donation-00457C?style=flat&amp;amp;logo=paypal&quot; alt=&quot;PayPal&quot; title=&quot;Make a donation&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;license&quot;&gt;License&lt;&#x2F;h2&gt;
 &lt;p&gt;This work is published under the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.mozilla.org&#x2F;en-US&#x2F;MPL&#x2F;2.0&#x2F;&quot;&gt;MPL-2.0&lt;&#x2F;a&gt; license&lt;&#x2F;p&gt;
 </content>
