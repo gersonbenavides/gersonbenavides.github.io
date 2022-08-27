@@ -1,5 +1,5 @@
 +++
-date = "2022-08-18T00:14:00-05:00"
+date = "2022-08-14T00:00:00-05:00"
 title = "Ataraxia Zola"
 description = "A personal theme focused on ease of reading."
 slug = "ataraxia-zola"
@@ -25,12 +25,12 @@ The theme takes visual inspiration from the Chirpy and Neumorphism themes.
 
 Open a command terminal at your site path and run:
 
-```console
-cd themes
+```bash
+$ cd themes
 ```
 
-```console
-git clone https://github.com/gersonbdev/ataraxia-zola.git
+```bash
+$ git clone https://github.com/gersonbdev/ataraxia-zola.git
 ```
 
 ## Configuration
@@ -68,8 +68,8 @@ page_template = "blog_page.html"
 
 You can display the result of your website by running:
 
-```console
-zola serve
+```bash
+$ zola serve
 ```
 
 
@@ -79,12 +79,12 @@ By default, the theme comes with all the scss styles already compiled, in such a
 
 If you want to edit the theme's styles, you'll need to have a [Node.js](https://nodejs.org/) interpreter and a [Sass compiler](https://sass-lang.com/install) installed. After that, go to the main path of the theme and execute:
 
-```console
-npm install
+```bash
+$ npm install
 ```
 
-```console
-sass --watch scss/custom.scss:static/assets/css/custom.css
+```bash
+$ sass --watch scss/custom.scss:static/assets/css/custom.css
 ```
 
 > Keep in mind that the main branch of this repository only has the stable versions of the theme, if you want to see the development status and the unstable versions, change to the corresponding branch.
@@ -96,9 +96,7 @@ This theme is mainly built on [Zola](https://www.getzola.org/) and [Bootstrap](h
 
 ## Sponsoring
 
-[![Liberapay](https://img.shields.io/badge/Finance%20my%20work-F6C915?style=flat&logo=liberapay&logoColor=ffffff "Finance my work")](https://liberapay.com/gersonbenavides/donate)
-
-[![PayPal](https://img.shields.io/badge/Make%20a%20donation-00457C?style=flat&logo=paypal "Make a donation")](https://paypal.me/gersonbdev?country.x=CO&locale.x=es_XC)
+[![Liberapay](https://img.shields.io/badge/Finance%20my%20work-F6C915?style=flat&logo=liberapay&logoColor=ffffff "Finance my work")](https://liberapay.com/gersonbenavides/donate)  [![PayPal](https://img.shields.io/badge/Make%20a%20donation-00457C?style=flat&logo=paypal "Make a donation")](https://paypal.me/gersonbdev?country.x=CO&locale.x=es_XC)
 
 ## License
 

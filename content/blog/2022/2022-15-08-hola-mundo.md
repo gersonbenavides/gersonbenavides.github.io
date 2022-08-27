@@ -10,7 +10,7 @@ draft = false
     tags = ["website"]
 
 [extra]
-    image = { path = "images/2022/codigo-hola-mundo.png", alt = "Hola, mundo!", visible_in_page = true, visible_in_section = true }
+    image = { path = "images/2022/card-codigo-hola-mundo.png", alt = "Hola, mundo!", visible_in_page = true, visible_in_section = true }
     page_identifier = "blog-2022-hola-mundo"
 +++
 

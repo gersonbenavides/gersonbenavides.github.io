@@ -25,8 +25,6 @@ page_template = "page.html"
 
 ## Patrocinio
 
-[![Liberapay](https://img.shields.io/badge/Financia%20mi%20trabajo-F6C915?style=flat&logo=liberapay&logoColor=ffffff "Finance my work")](https://liberapay.com/gersonbenavides/donate)
-
-[![PayPal](https://img.shields.io/badge/Realiza%20una%20donación-00457C?style=flat&logo=paypal "Make a donation")](https://paypal.me/gersonbdev?country.x=CO&locale.x=es_XC)
+[![Liberapay](https://img.shields.io/badge/Financia%20mi%20trabajo-F6C915?style=flat&logo=liberapay&logoColor=ffffff "Finance my work")](https://liberapay.com/gersonbenavides/donate)  [![PayPal](https://img.shields.io/badge/Realiza%20una%20donación-00457C?style=flat&logo=paypal "Make a donation")](https://paypal.me/gersonbdev?country.x=CO&locale.x=es_XC)
 
 
