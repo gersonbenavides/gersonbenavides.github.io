@@ -1,81 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://gersonbdev.github.io/</loc>
+        <loc>https://www.gersonb.dev/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/blog/</loc>
+        <loc>https://www.gersonb.dev/blog/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/blog/2022/</loc>
+        <loc>https://www.gersonb.dev/blog/2022/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/blog/2022/hola-mundo/</loc>
+        <loc>https://www.gersonb.dev/blog/2022/hola-mundo/</loc>
         <lastmod>2022-08-15T22:24:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/blog/page/1/</loc>
+        <loc>https://www.gersonb.dev/blog/2023/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/categories/</loc>
+        <loc>https://www.gersonb.dev/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/categories/news/</loc>
+        <loc>https://www.gersonb.dev/categories/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/categories/news/page/1/</loc>
+        <loc>https://www.gersonb.dev/categories/news/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/categories/projects/</loc>
+        <loc>https://www.gersonb.dev/categories/news/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/categories/projects/page/1/</loc>
+        <loc>https://www.gersonb.dev/categories/projects/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/projects/</loc>
+        <loc>https://www.gersonb.dev/categories/projects/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/projects/ataraxia-zola/</loc>
+        <loc>https://www.gersonb.dev/projects/</loc>
+    </url>
+    <url>
+        <loc>https://www.gersonb.dev/projects/ataraxia-zola/</loc>
         <lastmod>2022-08-14T00:00:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/projects/glib-gtk-libro/</loc>
+        <loc>https://www.gersonb.dev/projects/glib-gtk-libro/</loc>
         <lastmod>2021-01-05T00:00:00-05:00</lastmod>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/projects/page/1/</loc>
+        <loc>https://www.gersonb.dev/projects/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/</loc>
+        <loc>https://www.gersonb.dev/tags/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/book/</loc>
+        <loc>https://www.gersonb.dev/tags/book/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/book/page/1/</loc>
+        <loc>https://www.gersonb.dev/tags/book/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/glib/</loc>
+        <loc>https://www.gersonb.dev/tags/glib/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/glib/page/1/</loc>
+        <loc>https://www.gersonb.dev/tags/glib/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/gtk/</loc>
+        <loc>https://www.gersonb.dev/tags/gtk/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/gtk/page/1/</loc>
+        <loc>https://www.gersonb.dev/tags/gtk/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/website/</loc>
+        <loc>https://www.gersonb.dev/tags/website/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/website/page/1/</loc>
+        <loc>https://www.gersonb.dev/tags/website/page/1/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/zola/</loc>
+        <loc>https://www.gersonb.dev/tags/zola/</loc>
     </url>
     <url>
-        <loc>https://gersonbdev.github.io/tags/zola/page/1/</loc>
+        <loc>https://www.gersonb.dev/tags/zola/page/1/</loc>
     </url>
 </urlset>

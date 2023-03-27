@@ -2,19 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
 	<title>Gerson&#x27;s website - book</title>
 	<subtitle>Proyectos, opinión, tecnología y más</subtitle>
-	<link href="https://gersonbdev.github.io/tags/book/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://gersonbdev.github.io/"/>
+	<link href="https://www.gersonb.dev/tags/book/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www.gersonb.dev/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2021-01-05T00:00:00-05:00</updated>
-	<id>https://gersonbdev.github.io/tags/book/atom.xml</id>
+	<id>https://www.gersonb.dev/tags/book/atom.xml</id>
 	<entry xml:lang="es">
 		<title>La plataforma de desarrollo GLib&#x2F;GTK</title>
 		<published>2021-01-05T00:00:00-05:00</published>
 		<updated>2021-01-05T00:00:00-05:00</updated>
-		<link rel="alternate" href="https://gersonbdev.github.io/projects/glib-gtk-libro/" type="text/html"/>
-		<id>https://gersonbdev.github.io/projects/glib-gtk-libro/</id>
+		<link rel="alternate" href="https://www.gersonb.dev/projects/glib-gtk-libro/" type="text/html"/>
+		<id>https://www.gersonb.dev/projects/glib-gtk-libro/</id>
 		<content type="html">&lt;p&gt;Esta es una traducción al español del libro &lt;em&gt;The GLib&#x2F;GTK Development Platform – A Getting Started Guide&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;div class=&quot;my-3 text-center&quot;&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;div class=&quot;my-3 text-center&quot;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbdev&#x2F;glib-gtk-libro&#x2F;main&#x2F;mdbook&#x2F;src&#x2F;assets&#x2F;img&#x2F;logo-gtk.svg&quot; alt=&quot;Logo de GTK&quot; title=&quot;GTK&quot;  width=&quot;40%&quot;&gt;
 &lt;&#x2F;div&gt;
 &lt;h2 id=&quot;libro-en-latex&quot;&gt;Libro en LaTeX&lt;&#x2F;h2&gt;
@@ -42,7 +43,7 @@
 &lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;liberapay.com&#x2F;gersonbenavides&#x2F;donate&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Financia%20mi%20trabajo-F6C915?style=flat&amp;amp;logo=liberapay&amp;amp;logoColor=ffffff&quot; alt=&quot;Liberapay&quot; title=&quot;Finance my work&quot; &#x2F;&gt;&lt;&#x2F;a&gt;  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;paypal.me&#x2F;gersonbdev?country.x=CO&amp;amp;locale.x=es_XC&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Realiza%20una%20donaci%C3%B3n-00457C?style=flat&amp;amp;logo=paypal&quot; alt=&quot;PayPal&quot; title=&quot;Make a donation&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;¡Gracias!&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;creditos&quot;&gt;Créditos&lt;&#x2F;h2&gt;
-&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;people.gnome.org&#x2F;%7Eswilmet&#x2F;glib-gtk-book&#x2F;&quot;&gt;Sitio web del proyecto oficial&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;people.gnome.org&#x2F;~swilmet&#x2F;glib-gtk-book&#x2F;&quot;&gt;Sitio web del proyecto oficial&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;&#x2F;h2&gt;
 &lt;div class=&quot;my-3 text-center&quot;&gt;
 &lt;img src=&quot;https:&#x2F;&#x2F;gersonbdev.github.io&#x2F;glib-gtk-libro&#x2F;assets&#x2F;img&#x2F;license-cc-by-sa-88x31.png&quot; alt=&quot;CC BY-SA 4.0 license&quot; title=&quot;Attribution-ShareAlike 4.0 International&quot;  width=&quot;88px&quot;&gt;

@@ -2,25 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es">
 	<title>Gerson&#x27;s website - zola</title>
 	<subtitle>Proyectos, opinión, tecnología y más</subtitle>
-	<link href="https://gersonbdev.github.io/tags/zola/atom.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://gersonbdev.github.io/"/>
+	<link href="https://www.gersonb.dev/tags/zola/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://www.gersonb.dev/"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2022-08-14T00:00:00-05:00</updated>
-	<id>https://gersonbdev.github.io/tags/zola/atom.xml</id>
+	<id>https://www.gersonb.dev/tags/zola/atom.xml</id>
 	<entry xml:lang="es">
 		<title>Ataraxia Zola</title>
 		<published>2022-08-14T00:00:00-05:00</published>
 		<updated>2022-08-14T00:00:00-05:00</updated>
-		<link rel="alternate" href="https://gersonbdev.github.io/projects/ataraxia-zola/" type="text/html"/>
-		<id>https://gersonbdev.github.io/projects/ataraxia-zola/</id>
+		<link rel="alternate" href="https://www.gersonb.dev/projects/ataraxia-zola/" type="text/html"/>
+		<id>https://www.gersonb.dev/projects/ataraxia-zola/</id>
 		<content type="html">&lt;p&gt;A personal theme for Zola focused on readability that aims to be simple, beautiful, and modern. It is designed to support multiple languages and be highly customizable.&lt;&#x2F;p&gt;
-&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;img src=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbdev&#x2F;ataraxia-zola&#x2F;main&#x2F;mockup.png&quot; alt=&quot;Ataraxia preview&quot; title=&quot;Ataraxia mockup&quot; class=&quot;my-3&quot; style=&quot;max-width: 100%;&quot;&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbdev&#x2F;ataraxia-zola&#x2F;main&#x2F;mockup.png&quot; alt=&quot;Ataraxia preview&quot; title=&quot;Ataraxia mockup&quot; class=&quot;my-3&quot; style=&quot;max-width: 100%;&quot;&gt;
 &lt;p&gt;The theme takes visual inspiration from the Chirpy and Neumorphism themes.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;installation&quot;&gt;Installation&lt;&#x2F;h2&gt;
 &lt;p&gt;Open a command terminal at your site path and run:&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ cd themes
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ git clone https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;ataraxia-zola.git
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ git clone https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;ataraxia-zola.git ataraxia
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;&#x2F;h2&gt;
 &lt;p&gt;Copy the &lt;code&gt;config_sample.toml&lt;&#x2F;code&gt; file to your site&#x27;s main path, then rename it to &lt;code&gt;config.toml&lt;&#x2F;code&gt; and edit it with your site data.&lt;&#x2F;p&gt;

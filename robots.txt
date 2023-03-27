@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://gersonbdev.github.io/sitemap.xml
+Sitemap: https://www.gersonb.dev/sitemap.xml
