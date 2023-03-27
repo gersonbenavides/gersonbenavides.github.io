@@ -11,14 +11,14 @@ page_template = "page.html"
         id = "home"
         class = "mb-5"
         tab_titles = [
-            "Acerca de",
-            "Habilidades",
-            "Contacto"
+            "👋 Acerca de",
+            "📝 Habilidades",
+            "✉ Contacto"
         ]
         tab_contents = [
-            "Mi nombre es Gerson Benavides, soy ingeniero electrónico, desarrollador de software y un gran entusiasta del software libre.",
-            "Tengo experiencia en el desarrollo de sistemas embebidos, aplicaciones móviles, aplicaciones de escritorio y desarrollo web.",
-            "Puedes contactarme a través de mi correo gersonbdev@gmail.com"
+            "Hola, mi nombre es Gerson Benavides soy ingeniero electrónico y desarrollador de software.",
+            "Tengo experiencia en proyectos web, diseño electrónico, sistemas embebidos y software para móviles; contando con conocimiento en múltiples lenguajes de programación de alto y bajo nivel, con orientaciones hacia front-end, back-end y desarrollo de controladores de hardware.",
+            "Puedes contactarme a través de mi correo electrónico gersonbdev@gmail.com o en cualquiera de los canales mencionados en este sitio web."
         ]
     )
 }}

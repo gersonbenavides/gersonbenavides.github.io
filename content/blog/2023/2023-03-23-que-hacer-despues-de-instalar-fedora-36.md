@@ -1,5 +1,5 @@
 +++
-date = "2022-08-17T23:21:00-05:00"
+date = "2023-03-23T23:21:00-05:00"
 title = "¿Qué hacer después de instalar Fedora 36?"
 description = "Primera publicación del sitio web."
 slug = "que-hacer-despues-de-instalar-fedora-36"
@@ -11,7 +11,7 @@ draft = true
 
 [extra]
     image = { path = "images/2022/card-fedora-logo-text.png", alt = "Hola, mundo!", visible_in_page = true, visible_in_section = true }
-    page_identifier = "blog-2022-que-hacer-despues-de-instalar-fedora-36"
+    page_identifier = "blog-2023-que-hacer-despues-de-instalar-fedora-36"
 +++
 
 

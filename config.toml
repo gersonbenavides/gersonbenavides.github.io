@@ -1,5 +1,5 @@
 # The base URL of the site.
-base_url = "https://gersonbdev.github.io/"
+base_url = "https://www.gersonb.dev/"
 
 # To avoid problems with some variables due to multilingual support,
 # you will find repeated variables in the language section,
@@ -44,23 +44,24 @@ hard_link_static = false
             { name = "Inicio", url = "@/_index.md", icon = "bi-house" },
             { name = "Blog", url = "@/blog/_index.md", icon = "bi-file-earmark-text" },
             { name = "Proyectos", url = "@/projects/_index.md", icon = "bi-terminal" },
-            { name = "Categorías", url = "https://gersonbdev.github.io/categories", icon = "bi-bookmarks" }
+            { name = "Categorías", url = "https://www.gersonb.dev/categories", icon = "bi-bookmarks" }
         ]
     
     [extra.social]
-        author_link = "https://gersonbdev.github.io/"
+        author_link = "https://www.gersonb.dev/"
         twitter = "@gersonbdev"
         links = [
             { name = "Email", url = "mailto:gersonbdev@gmail.com", icon = "bi-envelope-fill" },
             { name = "GitHub", url = "https://github.com/gersonbdev", icon = "bi-github" },
+            { name = "LinkedIn", url = "https://www.linkedin.com/in/gersonbenavides/", icon = "bi-linkedin" },
             { name = "Twitter", url = "https://twitter.com/gersonbdev", icon = "bi-twitter" },
-            { name = "LinkedIn", url = "https://www.linkedin.com/in/gerson-benavides", icon = "bi-linkedin" },
-            { name = "Facebook", url = "https://www.facebook.com/gersonbdev/", icon = "bi-facebook" }
+            { name = "Facebook", url = "https://www.facebook.com/gersonbdev/", icon = "bi-facebook" },
+            { name = "Instagram", url = "https://www.instagram.com/gersonbdev/", icon = "bi-instagram" }
         ]
 
     [extra.seo]
-        google_analytics = "G-HZMKQK99NC"
-        google_search_console = "4rrfqHb31vL5v9faqtZPq6Y2HA3UiB2MvbbCzmsj7kw"
+        google_analytics = "G-K6X2LLGGLY"
+        # google_search_console = ""
     [extra.comments]
         disqus = "gersonbdev"
 
