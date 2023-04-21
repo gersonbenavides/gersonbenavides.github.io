@@ -17,7 +17,7 @@ A personal theme for Zola focused on readability that aims to be simple, beautif
 
 <!-- more -->
 
-<img src="https://raw.githubusercontent.com/gersonbdev/ataraxia-zola/main/mockup.png" alt="Ataraxia preview" title="Ataraxia mockup" class="my-3" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/gersonbenavides/ataraxia-zola/main/mockup.png" alt="Ataraxia preview" title="Ataraxia mockup" class="my-3" style="max-width: 100%;">
 
 The theme takes visual inspiration from the Chirpy and Neumorphism themes.
 
@@ -30,14 +30,14 @@ $ cd themes
 ```
 
 ```bash
-$ git clone https://github.com/gersonbdev/ataraxia-zola.git ataraxia
+$ git clone https://github.com/gersonbenavides/ataraxia-zola.git ataraxia
 ```
 
 ## Configuration
 
 Copy the `config_sample.toml` file to your site's main path, then rename it to `config.toml` and edit it with your site data.
 
-> You can see the [Gerson's website](https://github.com/gersonbdev/gersonbdev.github.io) repository for theme setup guide.
+> You can see the [Gerson's website](https://github.com/gersonbenavides/gersonbenavides.github.io) repository for theme setup guide.
 
 For the site to work properly you need to create a `_index.md` file within the `content` path with the following structure:
 

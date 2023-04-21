@@ -52,7 +52,7 @@ hard_link_static = false
         twitter = "@gersonbdev"
         links = [
             { name = "Email", url = "mailto:gersonbdev@gmail.com", icon = "bi-envelope-fill" },
-            { name = "GitHub", url = "https://github.com/gersonbdev", icon = "bi-github" },
+            { name = "GitHub", url = "https://github.com/gersonbenavides", icon = "bi-github" },
             { name = "LinkedIn", url = "https://www.linkedin.com/in/gersonbenavides/", icon = "bi-linkedin" },
             { name = "Twitter", url = "https://twitter.com/gersonbdev", icon = "bi-twitter" },
             { name = "Facebook", url = "https://www.facebook.com/gersonbdev/", icon = "bi-facebook" },
