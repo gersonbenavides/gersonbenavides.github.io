@@ -13,7 +13,7 @@
 		<updated>2022-08-15T22:24:00-05:00</updated>
 		<link rel="alternate" href="https://www.gersonb.dev/blog/2022/hola-mundo/" type="text/html"/>
 		<id>https://www.gersonb.dev/blog/2022/hola-mundo/</id>
-		<content type="html">&lt;p&gt;&lt;code&gt;Hola, mundo!&lt;&#x2F;code&gt; esta es la primera publicación del nuevo sitio web reconstruido sobre el generador de sitios estáticos &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt;. Este nuevo sitio remplaza el tema &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cotes2020&#x2F;jekyll-theme-chirpy&quot;&gt;Chirpy&lt;&#x2F;a&gt; que usaba &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;jekyllrb.com&#x2F;&quot;&gt;Jekyll&lt;&#x2F;a&gt; para funcionar por un nuevo tema construido desde cero para Zola llamado &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;ataraxia-zola&quot;&gt;Ataraxia&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+		<content type="html">&lt;p&gt;&lt;code&gt;Hola, mundo!&lt;&#x2F;code&gt; esta es la primera publicación del nuevo sitio web reconstruido sobre el generador de sitios estáticos &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&#x2F;&quot;&gt;Zola&lt;&#x2F;a&gt;. Este nuevo sitio remplaza el tema &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cotes2020&#x2F;jekyll-theme-chirpy&quot;&gt;Chirpy&lt;&#x2F;a&gt; que usaba &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;jekyllrb.com&#x2F;&quot;&gt;Jekyll&lt;&#x2F;a&gt; para funcionar por un nuevo tema construido desde cero para Zola llamado &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gersonbenavides&#x2F;ataraxia-zola&quot;&gt;Ataraxia&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 </content>
 	</entry>
@@ -25,18 +25,18 @@
 		<id>https://www.gersonb.dev/projects/ataraxia-zola/</id>
 		<content type="html">&lt;p&gt;A personal theme for Zola focused on readability that aims to be simple, beautiful, and modern. It is designed to support multiple languages and be highly customizable.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbdev&#x2F;ataraxia-zola&#x2F;main&#x2F;mockup.png&quot; alt=&quot;Ataraxia preview&quot; title=&quot;Ataraxia mockup&quot; class=&quot;my-3&quot; style=&quot;max-width: 100%;&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbenavides&#x2F;ataraxia-zola&#x2F;main&#x2F;mockup.png&quot; alt=&quot;Ataraxia preview&quot; title=&quot;Ataraxia mockup&quot; class=&quot;my-3&quot; style=&quot;max-width: 100%;&quot;&gt;
 &lt;p&gt;The theme takes visual inspiration from the Chirpy and Neumorphism themes.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;installation&quot;&gt;Installation&lt;&#x2F;h2&gt;
 &lt;p&gt;Open a command terminal at your site path and run:&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ cd themes
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
-&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ git clone https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;ataraxia-zola.git ataraxia
+&lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ git clone https:&#x2F;&#x2F;github.com&#x2F;gersonbenavides&#x2F;ataraxia-zola.git ataraxia
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;&#x2F;h2&gt;
 &lt;p&gt;Copy the &lt;code&gt;config_sample.toml&lt;&#x2F;code&gt; file to your site&#x27;s main path, then rename it to &lt;code&gt;config.toml&lt;&#x2F;code&gt; and edit it with your site data.&lt;&#x2F;p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;You can see the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;gersonbdev.github.io&quot;&gt;Gerson&#x27;s website&lt;&#x2F;a&gt; repository for theme setup guide.&lt;&#x2F;p&gt;
+&lt;p&gt;You can see the &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gersonbenavides&#x2F;gersonbenavides.github.io&quot;&gt;Gerson&#x27;s website&lt;&#x2F;a&gt; repository for theme setup guide.&lt;&#x2F;p&gt;
 &lt;&#x2F;blockquote&gt;
 &lt;p&gt;For the site to work properly you need to create a &lt;code&gt;_index.md&lt;&#x2F;code&gt; file within the &lt;code&gt;content&lt;&#x2F;code&gt; path with the following structure:&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;toml&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-toml &quot;&gt;&lt;code class=&quot;language-toml&quot; data-lang=&quot;toml&quot;&gt;&lt;span style=&quot;background-color:#932b1e;color:#fdf4c1;&quot;&gt;+++&lt;&#x2F;span&gt;&lt;span&gt;
@@ -88,16 +88,16 @@
 		<content type="html">&lt;p&gt;Esta es una traducción al español del libro &lt;em&gt;The GLib&#x2F;GTK Development Platform – A Getting Started Guide&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
 &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
 &lt;div class=&quot;my-3 text-center&quot;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbdev&#x2F;glib-gtk-libro&#x2F;main&#x2F;mdbook&#x2F;src&#x2F;assets&#x2F;img&#x2F;logo-gtk.svg&quot; alt=&quot;Logo de GTK&quot; title=&quot;GTK&quot;  width=&quot;40%&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbenavides&#x2F;glib-gtk-libro&#x2F;main&#x2F;mdbook&#x2F;src&#x2F;assets&#x2F;img&#x2F;logo-gtk.svg&quot; alt=&quot;Logo de GTK&quot; title=&quot;GTK&quot;  width=&quot;40%&quot;&gt;
 &lt;&#x2F;div&gt;
 &lt;h2 id=&quot;libro-en-latex&quot;&gt;Libro en LaTeX&lt;&#x2F;h2&gt;
-&lt;p&gt;Puede descargar la versión estable del libro &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbdev&#x2F;glib-gtk-libro&#x2F;main&#x2F;glib-gtk-libro.pdf&quot;&gt;La plataforma de desarrollo GLib&#x2F;GTK: Una guía de introducción&lt;&#x2F;a&gt; en formato PDF o puede realizar la compilación de la versión en desarrollo usted mismo escribiendo:&lt;&#x2F;p&gt;
+&lt;p&gt;Puede descargar la versión estable del libro &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;gersonbenavides&#x2F;glib-gtk-libro&#x2F;main&#x2F;glib-gtk-libro.pdf&quot;&gt;La plataforma de desarrollo GLib&#x2F;GTK: Una guía de introducción&lt;&#x2F;a&gt; en formato PDF o puede realizar la compilación de la versión en desarrollo usted mismo escribiendo:&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ cd latex
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ latexmk -pdf main.tex
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;h2 id=&quot;libro-web&quot;&gt;Libro web&lt;&#x2F;h2&gt;
-&lt;p&gt;Actualmente se esta trabajando en una versión &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gersonbdev.github.io&#x2F;glib-gtk-libro&#x2F;&quot;&gt;web&lt;&#x2F;a&gt; del libro, puede ver su estado en la ruta &lt;code&gt;mdbook&#x2F;&lt;&#x2F;code&gt; del proyecto.&lt;&#x2F;p&gt;
+&lt;p&gt;Actualmente se esta trabajando en una versión &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gersonbenavides.github.io&#x2F;glib-gtk-libro&#x2F;&quot;&gt;web&lt;&#x2F;a&gt; del libro, puede ver su estado en la ruta &lt;code&gt;mdbook&#x2F;&lt;&#x2F;code&gt; del proyecto.&lt;&#x2F;p&gt;
 &lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ cd mdbook
 &lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
 &lt;pre data-lang=&quot;bash&quot; style=&quot;background-color:#282828;color:#fdf4c1aa;&quot; class=&quot;language-bash &quot;&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span style=&quot;color:#fdf4c1;&quot;&gt;$ mdbook build
@@ -106,10 +106,10 @@
 &lt;p&gt;Si desea contribuir con el desarrollo de este libro puede apoyar con:&lt;&#x2F;p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Soporte en redacción&lt;&#x2F;strong&gt;: Escribiendo o revisando el texto, para hacerlo participe en el repositorio del libro (&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;glib-gtk-libro&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;gersonbdev&#x2F;glib-gtk-libro&lt;&#x2F;a&gt;) dando su opinión o desarrollando las tareas propuestas (revise el archivo TODO).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Soporte en redacción&lt;&#x2F;strong&gt;: Escribiendo o revisando el texto, para hacerlo participe en el repositorio del libro (&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gersonbenavides&#x2F;glib-gtk-libro&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;gersonbenavides&#x2F;glib-gtk-libro&lt;&#x2F;a&gt;) dando su opinión o desarrollando las tareas propuestas (revise el archivo TODO).&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Soporte financiero&lt;&#x2F;strong&gt;: El libro se publica como un documento &lt;em&gt;libre&lt;&#x2F;em&gt; y es gratuito. Pero no se materializa en un espacio vacío, se necesita tiempo para escribir. Al donar, demuestra su aprecio por este trabajo y ayuda a su desarrollo futuro. Puede encontrar un botón de donación en &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gersonbdev.github.io&#x2F;&quot;&gt;https:&#x2F;&#x2F;gersonbdev.github.io&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Soporte financiero&lt;&#x2F;strong&gt;: El libro se publica como un documento &lt;em&gt;libre&lt;&#x2F;em&gt; y es gratuito. Pero no se materializa en un espacio vacío, se necesita tiempo para escribir. Al donar, demuestra su aprecio por este trabajo y ayuda a su desarrollo futuro. Puede encontrar un botón de donación en &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gersonbenavides.github.io&#x2F;&quot;&gt;https:&#x2F;&#x2F;gersonbenavides.github.io&#x2F;&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;liberapay.com&#x2F;gersonbenavides&#x2F;donate&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Financia%20mi%20trabajo-F6C915?style=flat&amp;amp;logo=liberapay&amp;amp;logoColor=ffffff&quot; alt=&quot;Liberapay&quot; title=&quot;Finance my work&quot; &#x2F;&gt;&lt;&#x2F;a&gt;  &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;paypal.me&#x2F;gersonbdev?country.x=CO&amp;amp;locale.x=es_XC&quot;&gt;&lt;img src=&quot;https:&#x2F;&#x2F;img.shields.io&#x2F;badge&#x2F;Realiza%20una%20donaci%C3%B3n-00457C?style=flat&amp;amp;logo=paypal&quot; alt=&quot;PayPal&quot; title=&quot;Make a donation&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -118,7 +118,7 @@
 &lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;people.gnome.org&#x2F;~swilmet&#x2F;glib-gtk-book&#x2F;&quot;&gt;Sitio web del proyecto oficial&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;&#x2F;h2&gt;
 &lt;div class=&quot;my-3 text-center&quot;&gt;
-&lt;img src=&quot;https:&#x2F;&#x2F;gersonbdev.github.io&#x2F;glib-gtk-libro&#x2F;assets&#x2F;img&#x2F;license-cc-by-sa-88x31.png&quot; alt=&quot;CC BY-SA 4.0 license&quot; title=&quot;Attribution-ShareAlike 4.0 International&quot;  width=&quot;88px&quot;&gt;
+&lt;img src=&quot;https:&#x2F;&#x2F;gersonbenavides.github.io&#x2F;glib-gtk-libro&#x2F;assets&#x2F;img&#x2F;license-cc-by-sa-88x31.png&quot; alt=&quot;CC BY-SA 4.0 license&quot; title=&quot;Attribution-ShareAlike 4.0 International&quot;  width=&quot;88px&quot;&gt;
 &lt;&#x2F;div&gt;
 &lt;p&gt;Este trabajo está autorizado bajo una licencia internacional Creative Commons Attribution-ShareAlike 4.0:&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;creativecommons.org&#x2F;licenses&#x2F;by-sa&#x2F;4.0&#x2F;&quot;&gt;https:&#x2F;&#x2F;creativecommons.org&#x2F;licenses&#x2F;by-sa&#x2F;4.0&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
